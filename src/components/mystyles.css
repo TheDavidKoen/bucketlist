@@ -1,0 +1,33 @@
+.underline {
+  border-bottom: 1px solid black;
+}
+
+.green-button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.button1 {
+  background-color: orange;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.button2 {
+  color: red;
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin-right: .5em;
+}
